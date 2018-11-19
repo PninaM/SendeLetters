@@ -2,4 +2,5 @@ Pnina
 Menachem
 How are you tomorrow Java
 Yaeli & Pnina
-what will be with the project in JQuery???
+what will be with the project in JQuery?
+חבל שאין פה סמיילים
