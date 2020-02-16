@@ -4,3 +4,8 @@ How are you tomorrow Java
 Yaeli & Pnina
 what will be with the project in JQuery?
 חבל שאין פה סמיילים
+<<<<<<< Updated upstream
+=======
+HI yAELI!!
+what's going on with your bootcamp??
+>>>>>>> Stashed changes
