@@ -5,7 +5,12 @@ Yaeli & Pnina
 what will be with the project in JQuery?
 חבל שאין פה סמיילים
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 HI yAELI!!
 what's going on with your bootcamp??
+>>>>>>> Stashed changes
+=======
+
+מה קורה יעלי? רני מנסה לראות אם נוכל לעבוד על הפרויקט דרך GIHUB
 >>>>>>> Stashed changes
